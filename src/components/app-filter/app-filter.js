@@ -4,15 +4,15 @@ const AppFilter = (props) => {
   const buttonData = [
     {
       name: "all",
-      label: " Все сотрудники",
+      label: "All employees",
     },
     {
       name: "rise",
-      label: "На повышение",
+      label: "For promotion",
     },
     {
       name: "moreThen1000",
-      label: "З/П больше 1000$",
+      label: "Salary over $1000",
     },
   ];
 
